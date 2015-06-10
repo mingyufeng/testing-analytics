@@ -7,4 +7,6 @@ Steps for setting up git
 5. authenticating from git using https a) git credential-osxkeychain b) git config --global credential.helper osxkeychain
 6. 
 
-Added one line here
+Tutorials: https://github.com/GarageGames/Torque2D/wiki/Cloning-the-repo-and-working-with-Git
+
+Cheatsheet: http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
