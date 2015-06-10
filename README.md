@@ -7,3 +7,4 @@ Steps for setting up git
 5. authenticating from git using https a) git credential-osxkeychain b) git config --global credential.helper osxkeychain
 6. 
 
+Added one line here
