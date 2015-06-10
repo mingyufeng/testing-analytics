@@ -1,6 +1,5 @@
 # testing-analytics
-A testing repo
-setting up git
+Steps for setting up git
 1. download and install git
 2. git config --global user.name "YOUR NAME"
 3. git config --global user.email "YOUR EMAIL ADDRESS"
