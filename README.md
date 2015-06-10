@@ -12,5 +12,11 @@ Tutorials: https://github.com/GarageGames/Torque2D/wiki/Cloning-the-repo-and-wor
 Cheatsheet: http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 
 
-add a line on github
+Work on a project
+1. clone the project locally (git clone https://github.com/mingyufeng/testing-analytics.git)
+2. making changes locally
+3. git add 
+4. git commit
+5. git push (to push update to github server)
+6. git pull (will pull commited changes from github server master)
 
