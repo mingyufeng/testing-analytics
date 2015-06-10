@@ -13,3 +13,4 @@ https://github.com/GarageGames/Torque2D/wiki/Cloning-the-repo-and-working-with-G
 Cheatsheet: 
 http://rogerdudler.github.io/git-guide/files/git_cheat_sheet.pdf
 
+add a line on github
